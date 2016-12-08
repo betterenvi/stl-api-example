@@ -1,4 +1,4 @@
-# stack
+# set
 ### Constructor
 ``` C++
 // constructing sets

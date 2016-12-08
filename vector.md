@@ -90,8 +90,6 @@ Output:
 ``` C++
 vec.push_back(10); // Adds a new element at the end of the vector
 vec.pop_back(); // Removes the last element in the vector
-
-
 ```
 
 #### insert
